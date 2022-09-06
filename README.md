@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-<img src="https://c.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="programmer gif" style="max-width: 100%; display: inline-block; width:50%"/>
+<img src="https://c.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="programmer gif" style="max-width: 100%; display: inline-block; width:100%"/>
 </div>

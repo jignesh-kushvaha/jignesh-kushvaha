@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<div align="center">
+<img src="https://c.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="programmer gif" style="max-width: 100%; display: inline-block; width:50%"/>
+</div>

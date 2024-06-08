@@ -28,3 +28,21 @@
 <a href="https://www.hackerrank.com/jigneshkushwaha1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jigneshkushwaha1" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jignesh_kushvaha" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jignesh_kushvaha" height="30" width="40" /></a>
 </p>
+<hr />
+<h3 align="center">Projects</h3>
+ <table>
+    <tr align="center">
+      <th></th>
+      <th>Name</th>
+      <th>Description</th>
+      <th>Page</th>
+    </tr>
+    <tr>
+      <td>🎯</td>
+      <td>Game</td>
+      <td>Gussing Number Game</td>
+      <td align="center"><a href="gussing-number-game.vercel.app
+">gussing-number-game.vercel.app
+</a></td>      
+    </tr>
+ </table>

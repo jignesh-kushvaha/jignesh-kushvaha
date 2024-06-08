@@ -29,7 +29,7 @@
       <td>🎯</td>
       <td>Game</td>
       <td>Gussing Number Game</td>
-      <td align="center"><a href="gussing-number-game.vercel.app/">gussing-number-game.vercel.app/</a></td>      
+      <td align="center"><a href="https://gussing-number-game.vercel.app/">gussing-number-game.vercel.app/</a></td>      
     </tr>
   </table>
 

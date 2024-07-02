@@ -22,7 +22,7 @@
     <tr align="center">
       <th></th>
       <th>Name</th>
-      <th>Description</th>
+      <th width=500>Description</th>
       <th>Page</th>
     </tr>
     <tr>
@@ -30,6 +30,12 @@
       <td>Game</td>
       <td>Gussing Number Game</td>
       <td align="center"><a href="https://gussing-number-game.vercel.app/">gussing-number-game.vercel.app/</a></td>      
+    </tr>
+    <tr>
+      <td>📰</td>
+      <td>Daily News Update</td>
+      <td>You will get daily news update of the world here. You can also search for specific category.</td>
+      <td align="center"><a href="https://daily-news-wheat.vercel.app/">daily-news-wheat.vercel.app/</a></td>      
     </tr>
   </table>
 

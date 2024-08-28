@@ -18,7 +18,7 @@
 
 <hr />
 <h3 align="center">Projects</h3>  
-  <table style="width: 100%; border-collapse: collapse;">
+  <table>
     <tr align="center">
       <th width="5%"></th>
       <th width="20%">Name</th>
@@ -34,7 +34,7 @@
     <tr>
       <td>📝</td>
       <td>To-do List</td>
-      <td>React To-Dos App</td>
+      <td>React To-Dos App in which inserting of new task, updating the task and deleting the task after completion is done.</td>
       <td align="center"><a href="https://to-do-list-in-react-six.vercel.app/">to-do-list-in-react-six.vercel.app/</a></td>      
     </tr>
   </table>

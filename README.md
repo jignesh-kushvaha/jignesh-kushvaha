@@ -18,12 +18,12 @@
 
 <hr />
 <h3 align="center">Projects</h3>  
-  <table>
+  <table style="width: 100%; border-collapse: collapse;">
     <tr align="center">
-      <th></th>
-      <th>Name</th>
-      <th width=500>Description</th>
-      <th width=300>Page</th>
+      <th width="5%"></th>
+      <th width="20%">Name</th>
+      <th width="45%">Description</th>
+      <th width=30%>Page</th>
     </tr>
     <tr>
       <td>🎯</td>

@@ -23,7 +23,7 @@
       <th></th>
       <th>Name</th>
       <th width=500>Description</th>
-      <th>Page</th>
+      <th width=300>Page</th>
     </tr>
     <tr>
       <td>🎯</td>

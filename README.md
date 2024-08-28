@@ -32,10 +32,10 @@
       <td align="center"><a href="https://gussing-number-game.vercel.app/">gussing-number-game.vercel.app/</a></td>      
     </tr>
     <tr>
-      <td>🎯</td>
+      <td>📝</td>
       <td>To-do List</td>
-      <td></td>
-      <td align="center"><a href="to-do-list-in-react-six.vercel.app/">to-do-list-in-react-six.vercel.app/</a></td>      
+      <td>React To-Dos App</td>
+      <td align="center"><a href="https://to-do-list-in-react-six.vercel.app/">to-do-list-in-react-six.vercel.app/</a></td>      
     </tr>
   </table>
 

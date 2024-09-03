@@ -37,6 +37,12 @@
       <td>React To-Dos App in which inserting of new task, updating the task and deleting the task after completion is done.</td>
       <td align="center"><a href="https://to-do-list-in-react-six.vercel.app/">to-do-list-in-react-six.vercel.app/</a></td>      
     </tr>
+       <tr>
+      <td></td>
+      <td>Swiggy Clone</td>
+      <td>Swiggy clone using React, replicating the user interface and user experience of the online food ordering and delivery platform.</td>
+      <td align="center"><a href="https://swiggy-clone-taupe-five.vercel.app/">swiggy-clone-taupe-five.vercel.app/</a></td>      
+    </tr>
   </table>
 
   ---

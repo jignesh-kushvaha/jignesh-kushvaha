@@ -46,8 +46,8 @@
     <tr>
       <td>🧑‍🎓</td>
       <td>IEducate Website</td>
-      <td>Make A Website to implement my knowledge of web Desiging .</td>
-      <td align="center"><a href="educate-website-zeta.vercel.app/" target="_blank">to-do-list-in-react-six.vercel.app/</a></td>      
+      <td>Made a website to implement my knowledge of web Desiging .</td>
+      <td align="center"><a href="https://ieducate-website-zeta.vercel.app/" target="_blank">ieducate-website-zeta.vercel.app/</a></td>      
     </tr>
   </table>
 

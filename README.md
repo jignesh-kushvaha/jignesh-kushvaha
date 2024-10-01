@@ -43,6 +43,12 @@
       <td>React To-Dos App in which inserting of new task, updating the task and deleting the task after completion is done.</td>
       <td align="center"><a href="https://to-do-list-in-react-six.vercel.app/" target="_blank">to-do-list-in-react-six.vercel.app/</a></td>      
     </tr>
+    <tr>
+      <td>🧑‍🎓</td>
+      <td>IEducate Website</td>
+      <td>Make A Website to implement my knowledge of web Desiging .</td>
+      <td align="center"><a href="educate-website-zeta.vercel.app/" target="_blank">to-do-list-in-react-six.vercel.app/</a></td>      
+    </tr>
   </table>
 
   ---

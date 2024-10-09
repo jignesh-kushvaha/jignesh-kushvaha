@@ -25,12 +25,12 @@
       <th width="45%">Description</th>
       <th width=30%>Page</th>
     </tr>
-    <tr>
+    <!-- <tr>
       <td>🍴</td>
       <td>Swiggy Clone</td>
       <td>Swiggy clone using React, replicating the user interface and user experience of the online food ordering and delivery platform.</td>
       <td align="center"><a href="https://swiggy-clone-taupe-five.vercel.app/" target="_blank">swiggy-clone-taupe-five.vercel.app/</a></td>      
-    </tr>
+    </tr> -->
     <tr>
       <td>🎯</td>
       <td>Game</td>

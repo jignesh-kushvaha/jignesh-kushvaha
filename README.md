@@ -2,12 +2,12 @@
 ![](https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif)
 
 <h1 align="center">Hi 👋, I'm Jigneshsingh Kushvaha</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate full stack web developer from India</h3>
 <br>
 <hr>
 <h3 align="center">Skills:</h3><br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,mysql,mongodb,react,tailwind,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,js,nodejs,php,mysql,mongodb,python," />
 </p>
 
 <h3 align="center">Tools:</h3><br>

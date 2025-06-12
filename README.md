@@ -1,5 +1,5 @@
-<div align="center">
-<img src="https://c.tenor.com/2nKSTDDekOgAAAAC/coding-kira.gif" alt="programmer gif" width="800"/>
+<div>
+![readme gif](https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif)
 </div>
 
 <h1 align="center">Hi 👋, I'm Jigneshsingh Kushvaha</h1>

@@ -1,6 +1,5 @@
-<div>
-![readme gif](https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif)
-</div>
+
+![](https://raw.githubusercontent.com/priyan1995/priyan1995/master/readme-image.gif)
 
 <h1 align="center">Hi 👋, I'm Jigneshsingh Kushvaha</h1>
 <h3 align="center">A passionate frontend developer from India</h3>

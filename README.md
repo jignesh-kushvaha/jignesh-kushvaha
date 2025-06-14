@@ -12,7 +12,7 @@
 
 <h3 align="center">Tools:</h3><br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=postman,mysql,vercel,netlify,figma,firebase" />
+    <img src="https://skillicons.dev/icons?i=postman,mysql,vercel,netlify,figma" />
 </p>
 
 <hr />

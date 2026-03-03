@@ -7,12 +7,12 @@
 <hr>
 <h3 align="center">Skills:</h3><br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,js,nodejs,php,mysql,mongodb,python," />
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,react,js,nodejs,nextjs,nestjs,php,mysql,mongodb,python" />
 </p>
 
 <h3 align="center">Tools:</h3><br>
 <p align="center">
-    <img src="https://skillicons.dev/icons?i=postman,mysql,vercel,netlify,figma" />
+    <img src="https://skillicons.dev/icons?i=postman,mysql,vercel,netlify,figma,prisma" />
 </p>
 
 <hr />
